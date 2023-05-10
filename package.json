@@ -10,7 +10,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "home-page": "https://github.com/AswinSaj/Animal.git"
+    "homepage": "https://github.com/AswinSaj/Animal.git"
   },
   "scripts": {
     "start": "react-scripts start",
